@@ -16,8 +16,8 @@
 
 - 🔐 **CheckpointID** – Real-time goverment issued ID verification used by 30,000+ users
 - 🏢 **Property Management X** – Property management app with vendor/resident/lease modules information used by 1000+ users.
-- 🧠 **Kount SDK** – Maintained iOS SDK for Fraud prevention with real-time data collection to improve the security of applications.
--  **Ask Agora** – An AI-driven analytics chatbot for 300+ products of the MRI.
+- 🔐 **Kount SDK** – Maintained iOS SDK for Fraud prevention with real-time data collection to improve the security of applications.
+- 💬 **Ask Agora** – An AI-driven analytics chatbot for 300+ products of the MRI.
 
 ---
 
